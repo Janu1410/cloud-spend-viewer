@@ -72,7 +72,7 @@ npm run dev
 # Screenshots
 
 # Dashboard Overview
-![Dashboard UI]([assets/Dashboard.png](https://github.com/Janu1410/cloud-spend-viewer/blob/98102d8c0c629d024844906c6c52dcfe5c26e15d/Dashboard.png))
+![Dashboard UI](https://github.com/Janu1410/cloud-spend-viewer/blob/deaee0f30d35478f735cf89f6f3d2761b257673b/Dashboard.png)
 
 # Data
 ![Data UI](assets/data.png)
