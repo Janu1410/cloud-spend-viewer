@@ -68,27 +68,6 @@ cd client
 npm install
 npm run dev
 
-# Project Structure
-
-K_and_Co/
-├── server/
-│   ├── aws_line_items_12mo.csv   # Source Data
-│   ├── gcp_billing_12mo.csv      # Source Data
-│   ├── index.js                  # API Entry Point
-│   └── package.json 
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Sidebar.jsx       # Navigation
-│   │   │   ├── KPIStats.jsx      # Top Summary Cards
-│   │   │   ├── ChartsSection.jsx # Graphs
-│   │   │   ├── EnterpriseTable.jsx # Main Data Grid
-│   │   │   ├── PremiumFilters.jsx # Filter Logic
-│   │   │   └── ...               # Modals & Views
-│   │   ├── App.jsx               # Main Logic & Routing
-│   │   └── index.css             # Tailwind Directives
-│   └── package.json
-└── README.md
 
 # Screenshots
 
