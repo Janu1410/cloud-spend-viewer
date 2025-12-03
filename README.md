@@ -71,12 +71,12 @@ cmd :
 # project Structure
 ```
 K_and_Co
-├── backend/
+├── server/
 │   ├── aws_line_items_12mo.csv   # Source Data
 │   ├── gcp_billing_12mo.csv      # Source Data
 │   ├── index.js                  # API Entry Point
 │   └── package.json
-└── frontend/
+└── client/
    ├── src/
    │   ├── components/
    │   │   ├── Sidebar.jsx       # Navigation
