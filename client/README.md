@@ -90,13 +90,13 @@ K_and_Co/
 │   └── package.json
 └── README.md
 
-# Images
+# Screenshots
 
 # Dashboard Overview
-![Dashboard UI](assets/data.png)
+![Dashboard UI](assets/Dashboard.png)
 
 # Data
-![Data UI](assets/dashboard.png)
+![Data UI](assets/data.png)
 
 # Chart
 ![Chart UI](assets/chart.png)
