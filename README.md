@@ -78,7 +78,7 @@ npm run dev
 ![Chart UI](https://github.com/Janu1410/cloud-spend-viewer/blob/cb3fe80d82e3f70b10d94533b124a7fde72cfb42/chart.png)
 
 # Data
-![Data UI](assets/data.png)
+![Data UI](https://github.com/Janu1410/cloud-spend-viewer/blob/5cd3082b89ed396d5a6d0fce57dd3a6422d6af44/data.png)
 
 # Detailed Reports
 ![Reports UI](assets/Reports.png)
