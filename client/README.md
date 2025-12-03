@@ -1,4 +1,4 @@
-# K&Co. Cloud Spend Viewer
+# CloudLens
 
 A premium, enterprise-grade full-stack dashboard designed to analyze and visualize cloud infrastructure spending across AWS and GCP. This application transforms raw billing data into actionable insights with a high-performance UI.
 

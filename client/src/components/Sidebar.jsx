@@ -9,7 +9,7 @@ const Sidebar = ({ currentView, onNavigate, onOpenSettings }) => {
         <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3 shadow-md shadow-indigo-200 dark:shadow-none">
           <Hexagon className="text-white" size={18} fill="currentColor" />
         </div>
-        <span className="font-bold text-lg tracking-tight text-slate-900 dark:text-white">K&Co. <span className="text-slate-400 font-normal">Viewer</span></span>
+        <span className="font-bold text-lg tracking-tight text-slate-900 dark:text-white">CloudLens</span>
       </div>
 
       {/* Menu */}
