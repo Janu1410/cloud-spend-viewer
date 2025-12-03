@@ -89,3 +89,21 @@ K_and_Co/
 │   │   └── index.css             # Tailwind Directives
 │   └── package.json
 └── README.md
+
+# Images
+
+# Dashboard Overview
+![Dashboard UI](assets/data.png)
+
+# Data
+![Data UI](assets/dashboard.png)
+
+# Chart
+![Chart UI](assets/chart.png)
+
+# Detailed Reports
+![Reports UI](assets/Reports.png)
+
+
+# Setting
+![Setting UI](assets/Setting.png)
