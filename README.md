@@ -57,16 +57,16 @@ The backend reads the CSV files and serves normalized JSON data.
 
 cmd :
 
-cd server
-npm install
-node index.js
+* cd server
+* npm install
+* node index.js
 
 
 # 2. Start the Frontend Application
 
-cd client
-npm install
-npm run dev
+* cd client
+* npm install
+* npm run dev
 
 
 # Screenshots
@@ -77,7 +77,7 @@ npm run dev
 # Chart
 ![Chart UI](https://github.com/Janu1410/cloud-spend-viewer/blob/cb3fe80d82e3f70b10d94533b124a7fde72cfb42/chart.png)
 
-# Data
+# Transaction History
 ![Data UI](https://github.com/Janu1410/cloud-spend-viewer/blob/5cd3082b89ed396d5a6d0fce57dd3a6422d6af44/data.png)
 
 # Detailed Reports
@@ -85,4 +85,4 @@ npm run dev
 
 
 # Setting
-![Setting UI](assets/Setting.png)
+![Setting UI](https://github.com/Janu1410/cloud-spend-viewer/blob/a3bd70fa1cc7a3397f46cabc177ee948a60227ce/Setting.png)
