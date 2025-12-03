@@ -68,6 +68,30 @@ cmd :
 * npm install
 * npm run dev
 
+# project Structure
+```
+K_and_Co
+├── backend/
+│   ├── aws_line_items_12mo.csv   # Source Data
+│   ├── gcp_billing_12mo.csv      # Source Data
+│   ├── index.js                  # API Entry Point
+│   └── package.json
+└── frontend/
+   ├── src/
+   │   ├── components/
+   │   │   ├── Sidebar.jsx       # Navigation
+   │   │   ├── KPIStats.jsx      # Top Summary Cards
+   │   │   ├── ChartsSection.jsx # Graphs
+   │   │   ├── EnterpriseTable.jsx # Main Data Grid
+   │   │   ├── PremiumFilters.jsx # Filter Logic
+   │   │   ├── TransactionModal.jsx # Detail View
+   │   │   ├── ReportsView.jsx   # Data Grid View
+   │   │   └── SettingsModal.jsx # Preferences
+   │   ├── App.jsx               # Main Logic & Routing
+   │   └── index.css             # Tailwind Directives
+   ├── README.md
+   └── package.json
+```
 
 # Screenshots
 
