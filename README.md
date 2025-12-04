@@ -105,7 +105,7 @@ K_and_Co
 ![Tr_Data UI](https://github.com/Janu1410/cloud-spend-viewer/blob/e4ef97227cacce89de909457fa370becde466656/Tr_data.png)
 
 # Data
-![Data UI](https://github.com/Janu1410/cloud-spend-viewer/blob/5cd3082b89ed396d5a6d0fce57dd3a6422d6af44/data.png)
+![Data UI](https://github.com/Janu1410/cloud-spend-viewer/blob/7ba552683f8cd43ddd0acb4c112ea42321075dac/data.png)
 
 
 
